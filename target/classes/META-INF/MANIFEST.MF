@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: StudentConsumer
+Implementation-Version: 1.0.0-BUILD-SNAPSHOT
+Implementation-Vendor-Id: com.rajat
+Build-Jdk: 1.6.0_31
+Built-By: rsurana
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/surana/
+
